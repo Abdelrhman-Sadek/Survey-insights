@@ -43,3 +43,5 @@ Churn_from_ads.to_csv('E:\\py\\Servay\\Churn_from_ads.csv',index=False)
   </p>
 
 > **Note**
+> Groups that have less than 20 person are exterminated
+> Web and Mobile groups were also removed because they don't make sense to be measured with 
