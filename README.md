@@ -13,7 +13,7 @@ and more other features even **race and zodiac signs** and then ask them 5 main 
 
 with this so many groups it will be hard to access all this information 
 <br>
-** `Goal`is to build an interactive dashboard to accessing the information and insights of the survey more easily
+**`Goal`is to build an interactive dashboard to accessing the information and insights of the survey more easily**
 <br>
 with a small piece of code splited the qusitions info 5 data farmes each one have a qusiton of the survey
 
